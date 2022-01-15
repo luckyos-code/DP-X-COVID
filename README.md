@@ -1,7 +1,7 @@
 # Privacy-Preserving Detection of COVID-19 in X-Ray Images
 
 ## Contents
-* [Report](report/Masters_Thesis_Lucas_Lange.pdf) (English, Master's Thesis)
+* [Report](reports/Masters_Thesis_Lucas_Lange.pdf) (English, Master's Thesis)
 * [Results](results/) (Figures and Tables)
 * [Experiments](experiments/) (Jupyter Notebooks)
 
