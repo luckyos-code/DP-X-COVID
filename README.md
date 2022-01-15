@@ -1,9 +1,9 @@
 # Privacy-Preserving Detection of COVID-19 in X-Ray Images
 
 ## Contents
-* [Report](reports/Masters_Thesis_Lucas_Lange.pdf) (English, Master's Thesis)
-* [Results](results/) (Figures and Tables)
-* [Experiments](experiments/) (Jupyter Notebooks)
+* [Report](reports/Masters_Thesis_Lucas_Lange.pdf) - Master's Thesis, English
+* [Results](results/) - Figures and Tables
+* [Experiments](experiments/) - Jupyter Notebooks
 
 ## Abstract
 Chest X-rays enable a fast and safe diagnosis of COVID-19 in patients. Applying Machine Learning (ML) methods can support medical professionals by classifying large numbers of images. However, the amount of data needed for training such classifiers poses problems due to clinical data privacy regulations, which present strict limitations on data sharing between hospitals. Specifically, the models resulting from ML are vulnerable to attacks and can compromise data integrity by leaking details about their training data. Privacy-Preserving ML (PPML) offers methods to create private models that satisfy Differential Privacy (DP), enabling the development of medical applications while maintaining patient privacy.
